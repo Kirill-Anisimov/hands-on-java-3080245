@@ -27,7 +27,7 @@ public class Menu {
   }
 
   private Customer authenticateUser() {
-    System.out.println("Please ener your username");
+    System.out.println("Please enter your username");
     String username = scanner.next();
 
     System.out.println("Please enter your password");
